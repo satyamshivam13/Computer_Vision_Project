@@ -1,8 +1,8 @@
 # Computer_Vision_Project
-Brightness Control With Hand Detection
+#Brightness Control With Hand Detection
 
-1. Abstract
-This project leverages computer vision techniques to control screen brightness through hand detection and gesture recognition. By capturing hand movements in real-time using a webcam, the system allows users to adjust screen brightness with simple hand gestures, providing a convenient and innovative solution for brightness control. The primary objectives include detecting hand gestures accurately, mapping these gestures to brightness levels, and providing a seamless user experience.
+///1. Abstract
+This project leverages computer vision techniques to control screen brightness through hand detection and gesture recognition. By capturing hand movements in real-time using a webcam, the system allows users to adjust screen brightness with simple hand gestures, providing a convenient and innovative solution for brightness control. The primary objectives include detecting hand gestures accurately, mapping these gestures to brightness levels, and providing a seamless user experience.///
 
 2. Introduction
 Problem Statement
