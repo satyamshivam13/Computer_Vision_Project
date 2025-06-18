@@ -27,6 +27,7 @@ Installation
 	1.	Clone the repository:
 
 git clone https://github.com/satyamshivam13/Computer_Vision_Project
+
 cd Brightness-Control-With-Hand-Detection
 
 
