@@ -37,8 +37,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/gesture-brightness-controller.git
-cd gesture-brightness-controller
+git clone https://github.com/satyamshivam13/Gesture_Brightness_Control.git
+cd Gesture_Brightness_Control
 ```
 
 2. Run the application:
@@ -57,7 +57,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-gesture-brightness-controller/
+Gesture_Brightness_Control/
 ├── main.py                # Main application script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
@@ -92,6 +92,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 **Contact:**  
-For any questions or support, feel free to [open an issue](https://github.com/your-username/gesture-brightness-controller/issues) or email: `shivamsatyam35@gmail.com`.
+For any questions or support, feel free to [open an issue](https://github.com/your-username/Gesture_Brightness_Control/issues) or email: `shivamsatyam35@gmail.com`.
 
 Enjoy gesture-based brightness control! 🌟
