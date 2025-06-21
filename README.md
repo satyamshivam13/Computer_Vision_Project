@@ -61,7 +61,6 @@ Gesture_Brightness_Control/
 ├── main.py                # Main application script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-└── assets/                # (Optional) Images, screenshots, videos
 ```
 
 ## ⚙️ Customization
@@ -92,6 +91,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 **Contact:**  
-For any questions or support, feel free to [open an issue](https://github.com/your-username/Gesture_Brightness_Control/issues) or email: `shivamsatyam35@gmail.com`.
+For any questions or support, feel free to email: `shivamsatyam35@gmail.com`.
 
 Enjoy gesture-based brightness control! 🌟
